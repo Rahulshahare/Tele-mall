@@ -22,3 +22,14 @@ body{
     /* background: transparent url('img/Group 207.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
+
+.Menubar{
+    left: 596px;
+    width: 456px;
+    height: 22px;
+    /* background: transparent url('img/Home About Us Services Pricing Contact Us.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+    color: #FFFFFF;
+    position: relative;
+    word-spacing: 20px;
+}
