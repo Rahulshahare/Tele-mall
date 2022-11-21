@@ -7,7 +7,7 @@ body{
 .Rectangle1{
     top: 0px;
     left: 0px;
-    width: 1366px;
+    /* width: 1366px; */
     height: 704px;
     background-color: #181831;
     opacity: 1;
@@ -56,6 +56,16 @@ body{
     /* UI Properties */
     opacity: 1;
     position:absolute;
+}
+
+.grid{
+    position: absolute;
+    top: 251px;
+    left: 50px;
+    width: 107px;
+    height: 91px;
+    background: transparent url('img/Repeat Grid 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
 }
 
 .heading{
