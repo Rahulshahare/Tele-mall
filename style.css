@@ -32,6 +32,20 @@ body{
     color: #FFFFFF;
     position: absolute;
     word-spacing: 20px;
+    font-weight: 300;
+}
+
+.Menubar a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.activeMenu, .Menubar a:hover{
+    padding-bottom: 5px;
+    font-weight: 900;
+    border-bottom: 1px solid #4DAEFA;
 }
 
 .loginButton{
