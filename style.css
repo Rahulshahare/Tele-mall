@@ -13,23 +13,32 @@ body{
 }
 
 .Group207{
-    position: relative; /*Position relative to parent div*/
+    position: absolute; /*Position relative to parent div*/
     top: 41px;
     left: 131px;
     width: 182px;
     height: 61px;
-    /* UI Properties */
-    /* background: transparent url('img/Group 207.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
 .Menubar{
+    top: 60;
     left: 596px;
     width: 456px;
     height: 22px;
     /* background: transparent url('img/Home About Us Services Pricing Contact Us.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
     color: #FFFFFF;
-    position: relative;
+    position: absolute;
     word-spacing: 20px;
+}
+
+.loginButton{
+    top: 52px;
+    left: 1120px;
+    width: 165px;
+    height: 38px;
+    /* UI Properties */
+    opacity: 1;
+    position:absolute;
 }
